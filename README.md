@@ -41,7 +41,7 @@ Air-Quality-and-Mortality-Analysis/
 │   └── README.md
 │
 ├── notebooks/
-│   └── air_quality_mortality_analysis.ipynb
+│   └── notebooks/Death-caused-by-air-pollution.ipynb
 │
 ├── src/
 │   └── analysis.py
@@ -95,7 +95,7 @@ This project demonstrates practical experience in:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Air-Quality-and-Mortality-Analysis.git
+git clone https://github.com/sparobanks/Air-Quality-and-Mortality-Analysis.git
 cd Air-Quality-and-Mortality-Analysis
 ```
 
@@ -114,7 +114,7 @@ jupyter notebook
 Then open:
 
 ```text
-notebooks/air_quality_mortality_analysis.ipynb
+notebooks/Death-caused-by-air-pollution.ipynb
 ```
 
 Apache Spark must also be installed and configured to run the PySpark analysis.
