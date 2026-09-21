@@ -35,10 +35,8 @@ Air-Quality-and-Mortality-Analysis/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 │
 ├── data/
-│   └── README.md
 │
 ├── notebooks/
 │   └── notebooks/Death-caused-by-air-pollution.ipynb
@@ -47,8 +45,6 @@ Air-Quality-and-Mortality-Analysis/
 │   └── analysis.py
 │
 └── results/
-    ├── charts/
-    └── outputs/
 ```
 
 ## Data Analysis
